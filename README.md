@@ -4,7 +4,7 @@
 O **Amazon SageMaker Canvas** é uma ferramenta poderosa que democratiza o uso de machine learning, permitindo que analistas de negócios sem conhecimento técnico em ML criem modelos preditivos. Com ele, é possível prever a rotatividade de clientes, extrair informações de documentos, gerar conteúdo de vendas e marketing entre outros casos de uso. 
 Nesse contexto, complete o código deste desafio, associando os casos de uso do SageMaker Canvas com suas respectivas descrições.
 
-Saiba mais em: Amazon SageMaker Canvas.
+Saiba mais em: [Amazon SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/).
 
 # Entrada
 A entrada consiste em um caso de uso do SageMaker Canvas para o qual você deve retornar a descrição. Neste contexto, os seguintes casos são considerados válidos para este desafio de código:
